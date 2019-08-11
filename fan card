@@ -1,0 +1,4 @@
+type: entities
+entities:
+  - entity: fan.diningroom_fan
+    type: 'custom:fan-control-entity-row'
