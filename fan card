@@ -1,4 +1,4 @@
 type: entities
 entities:
-  - entity: fan.diningroom_fan
+  - entity: fan.diningroom_fan     ## insert your entity here ##
     type: 'custom:fan-control-entity-row'
