@@ -1,0 +1,7 @@
+  - platform: mqtt
+    name: Diningroom Light
+    command_topic: "cmnd/Diningroom_Fan_Module/power1"
+    state_topic: "stat/Diningroom_Fan_Module/POWER1"
+    payload_on: "ON"
+    payload_off: "OFF"
+    retain: true
