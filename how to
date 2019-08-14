@@ -1,0 +1,13 @@
+Serial install latest dev
+    http://thehackbox.org/tasmota/
+    Module type iFan03 (71)
+
+install fan-contol-entity-row via hacs or manually
+    https://github.com/finity69x2/fan-control-entity-row
+    
+Add fan.yaml in this repo (change for your settings) to your configuration.yaml or fan.yaml
+
+Set up a manual card with the card config in this repo. 
+
+
+
