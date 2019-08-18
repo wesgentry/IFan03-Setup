@@ -9,6 +9,8 @@ install fan-contol-entity-row via hacs or manually
     
 Add fan.yaml in this repo (change for your settings) to your configuration.yaml or fan.yaml
 
+Switch.yaml covers the light. 
+
 Set up a manual card with the card config in this repo. 
 
 
